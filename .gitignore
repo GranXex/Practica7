@@ -1,0 +1,12 @@
+# Carpetas de compilación y caché de Gradle
+.gradle/
+build/
+app/build/
+
+# Documentación generada (el Javadoc que hicimos hace rato)
+documentacion/
+app/src/main/java/documentacion/
+
+# Archivos ocultos de sistema macOS
+.DS_Store
+*.class
